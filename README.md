@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hacko97
-- 👀 I’m interested in machine learning, deep learning and web development
+- 👀 I’m interested in software development.
 - 🌱 I’m currently learning mobile development
 - 💞️ I’m looking to collaborate on open source projects
 
